@@ -1,0 +1,5 @@
+sqlite3
+pandas
+matplotlib
+streamlit
+requests
